@@ -31,7 +31,7 @@ exoplanet-transit-research/
 | 7-8 | Revise and submit to arXiv |
 
 ## 📊 Status
-🔄 Week 1 — Selecting target exoplanet
+🔄 Week 4 — Selecting target exoplanet
 
 ## 📄 License
 MIT License
